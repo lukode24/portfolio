@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_4" data-name="Calque 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-size: 60px;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 350px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(-7.85 335.42)"><tspan x="0" y="0">OC</tspan></text>
+  <text class="cls-1" transform="translate(1.77 426.77)"><tspan class="cls-2" x="0" y="0">O</tspan><tspan class="cls-5" x="43.26" y="0">p</tspan><tspan x="79.32" y="0">enclass</tspan><tspan class="cls-4" x="273.48" y="0">r</tspan><tspan class="cls-5" x="295.8" y="0">o</tspan><tspan x="330.59" y="0">oms</tspan></text>
+</svg>

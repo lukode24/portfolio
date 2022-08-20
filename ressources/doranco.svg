@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        letter-spacing: .37em;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+      }
+
+      .cls-4 {
+        font-size: 60px;
+      }
+
+      .cls-3 {
+        letter-spacing: .36em;
+      }
+
+      .cls-5 {
+        letter-spacing: .36em;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-6 {
+        letter-spacing: .34em;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1" data-name="Calque 1" focusable="false">
+    <g>
+      <g>
+        <path d="M268.22,95c-60.92,0-110.3,54.68-110.3,122.13s49.38,122.13,110.3,122.13V95Z"/>
+        <path class="cls-1" d="M289.76,126.04c-45.44,0-82.27,40.78-82.27,91.1s36.83,91.1,82.27,91.1V126.04Z"/>
+      </g>
+      <text class="cls-4" transform="translate(11.16 426.77)"><tspan class="cls-3" x="0" y="0">DO</tspan><tspan class="cls-2" x="127.62" y="0">R</tspan><tspan class="cls-3" x="185.16" y="0">AN</tspan><tspan class="cls-6" x="308.76" y="0">C</tspan><tspan class="cls-5" x="363.72" y="0">O</tspan></text>
+    </g>
+  </g>
+</svg>

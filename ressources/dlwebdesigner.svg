@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 27.52px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-size: 61px;
+      }
+    </style>
+  </defs>
+  <g id="logo-noir">
+    <path class="cls-1" d="M141.56,314.97c-1.78-.81-3.54-1.65-5.26-2.53m5.26,2.53c12.58,5.7,26.41,9.4,41.02,10.66m-46.28-101.39v12.69m0-93.02v56.97m0-72.65v-1.6c0-2.45,1.41-4.68,3.62-5.74,16.17-7.6,34.49-11.9,53.88-11.9,65.3,0,118.32,48.64,118.32,108.56s-53.02,108.56-118.32,108.56c-3.79,0-7.53-.16-11.23-.48m-46.28-181.72v-3.1m0-12.58v12.58m74.45,86.51c-.45,1.27-.94,2.53-1.46,3.76-1.5,3.54-4.97,5.84-8.82,5.84-10.7,.01-32.07,.01-32.07,.01m44.81-18.82c-.39,2.08-.88,4.12-1.47,6.13m-.99,3.07c.36-1.01,.69-2.04,.99-3.07m-75.44,0v-23.37m0,36.05h32.09"/>
+  </g>
+  <text class="cls-4" transform="translate(.53 427)"><tspan x="0" y="0">DL.</tspan><tspan class="cls-2" x="89.49" y="0">W</tspan><tspan x="141.09" y="0">e</tspan><tspan class="cls-3" x="173.3" y="0">b</tspan><tspan x="209.96" y="0">designer</tspan></text>
+</svg>
